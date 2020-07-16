@@ -10,8 +10,10 @@ Once installed you need to install an 2 extra packages
 Click Start on your computer and search for PowerShell. Right click on it and Run as Admin
 
 Once open type:
+
  pip install pyautogui
 When copleted type:
+
  pip install python-imageseach-drov0
  
 After those are completed. Download all files to the SAME FOLDER (example: desktop\boxopener\)
