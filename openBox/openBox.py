@@ -1,7 +1,7 @@
 from python_imagesearch.imagesearch import imagesearch_loop
 import pyautogui
 import time
-opened = 2755
+opened = 0
 
 while True:
     start = imagesearch_loop("./start.png", 1, 0.5)
