@@ -12,7 +12,8 @@ Click Start on your computer and search for PowerShell. Right click on it and Ru
 Once open type:
 
  pip install pyautogui
-When copleted type:
+ 
+When completed type:
 
  pip install python-imageseach-drov0
  
